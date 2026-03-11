@@ -1,7 +1,7 @@
 import React from 'react';
 import avatar from '../assets/Avatar.png'
 import avatar1 from '../assets/Avatar(1).png'
-import avatar2 from '../assets/Avatar21.png'
+// import avatar2 from '../assets/Avatar21.png'
 import Customer from '../assets/customer-11.png'
 import Customer1 from '../assets/olena-sergienko-XttWKETqCCQ-unsplash1(1).png'
 import avatar3 from '../assets/Avatar(2).png'
@@ -49,7 +49,7 @@ const Testimonials = () => {
       text: "This platform changed the way I stay in touch with my friends and family. The interface is smooth and I love how easy it is to share my moments!",
       name: "Emily R",
       country: "USA",
-      avatar: avatar2
+      avatar: avatar1
     },
     {
       rating: "★★★★★",
