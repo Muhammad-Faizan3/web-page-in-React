@@ -1,7 +1,6 @@
 import React from 'react';
 import Body from '../assets/Body.png'
-import Iphone from '../assets/iphone14Pro.png'
-
+import Iphone from '../assets/iPhone14Pro.png'
 
 const Donation = () => (
   <section className="max-w-7xl mx-auto px-6 py-20">
